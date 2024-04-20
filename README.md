@@ -1,2 +1,2 @@
 # C812-DAC
-Curso de maestria Analisis diseño computacional 
+Curso de Maestria Analisis Diseño Computacional 
